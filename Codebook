@@ -1,0 +1,19 @@
+#code book
+#These variables were used to load data in R code. Their respective names clearly indicates that.
+#subject_test
+#subject_train 
+#x_train 
+#y_train 
+#x_test
+#y_test
+#activity_labels
+#features
+#train data variable
+#traindata
+#test data variable
+#testdata
+
+#finaldata was used for q2
+#groupacts for q3
+#Labelss  for q4
+#indData for independent data set for Q5
